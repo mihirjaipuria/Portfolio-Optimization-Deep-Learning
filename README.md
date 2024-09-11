@@ -7,7 +7,6 @@
 -[Project Overview](#-project-overview)
 -[Key Features](#-key-features)
 -[Project Structure](#-project-structure)
--[Usage](#-usage)
 -[Results](#-results)
 -[Customization](#-customization)
 -[Disclaimer](#-disclaimer)
@@ -53,24 +52,7 @@ This project implements a comprehensive suite of tools for stock analysis, forec
 └── README.md
 ```
 
-   ```
-
-## Usage
-
-1. **Stock Price Forecasting**
-   ```
-   python stock_forecasting.py --symbol AAPL --start_date 2010-01-01 --end_date 2023-12-31
-   ```
-
-2. **Portfolio Optimization**
-   ```
-   python portfolio_optimization.py --input_file data/all_stocks_forecasts.csv --num_simulations 100000
-   ```
-
-3. **Portfolio Backtesting**
-   ```
-   python portfolio_backtesting.py --weights_file results/optimization/optimal_weights.json --start_date 2021-08-01 --end_date 2024-08-01
-   ```
+   
 
 ## Results
 
