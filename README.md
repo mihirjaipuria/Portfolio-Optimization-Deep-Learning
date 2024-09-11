@@ -1,15 +1,14 @@
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red) ![Git](https://img.shields.io/badge/Git-Version%20Control-orange) ![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+# Advanced Stock Analysis and Portfolio Optimization
 
 ## Table of Contents
--[Project Overview](#-project-overview)
--[Key Features](#-key-features)
--[Project Structure](#-project-structure)
--[Results](#-results)
--[Customization](#-customization)
--[Disclaimer](#-disclaimer)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Results](#results)
+- [Customization](#customization)
+- [Disclaimer](#disclaimer)
 
 
 
