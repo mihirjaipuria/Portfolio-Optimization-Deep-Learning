@@ -4,13 +4,13 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 ## Table of Contents
--[Project Overview](#project-overview)
--[Key Features](#key-features)
--[Project Structure](#project-structure)
--[Usage](#usage)
--[Results](#results)
--[Customization](#customization)
--[Disclaimer](#disclaimer)
+-[Project Overview](#-project-overview)
+-[Key Features](#-key-features)
+-[Project Structure](#-project-structure)
+-[Usage](#-usage)
+-[Results](#-results)
+-[Customization](#-customization)
+-[Disclaimer](#-disclaimer)
 
 
 
